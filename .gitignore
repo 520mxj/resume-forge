@@ -1,0 +1,10 @@
+node_modules/
+dist/
+public/pdfjs/
+.npmrc
+*.local
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
